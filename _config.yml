@@ -1,11 +1,11 @@
 # Site settings
-author: excellent-revision-4527
-title: 
+author: Tyler Croley
+title: Journey Into the Realm of Software Development
 header-img: img/home-bg.png
 email: tjcroley@outlook.com
-copyright_name: excellent-revision-4527
+copyright_name: Tyler Croley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One Small Step
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MisterAnthropy
