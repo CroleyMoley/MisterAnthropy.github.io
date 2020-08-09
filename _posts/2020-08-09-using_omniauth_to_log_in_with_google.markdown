@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Omniauth to Log in with Google"
-date:       2020-08-09 19:50:26 +0000
+date:       2020-08-09 15:50:27 -0400
 permalink:  using_omniauth_to_log_in_with_google
 ---
 
