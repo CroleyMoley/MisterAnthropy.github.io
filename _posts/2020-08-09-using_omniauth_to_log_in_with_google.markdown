@@ -6,7 +6,7 @@ permalink:  using_omniauth_to_log_in_with_google
 ---
 
 
-In order to ingrate your web application with other sites and apps for the authenication process, we need to use a gem called Omniauth. There are several different omniauth gems that are called within our gemfile in order to integrate with sites like, google, facebook, github, twitter, etc. Let's take a look below to see how I integrated Google sign in with my Music EQ app.
+In order to ingrate your web application with other sites and apps for the authenication process, we need to use a gem called Omniauth. There are several different omniauth gems that are called within our gemfile in order to integrate with sites like, google, facebook, github, twitter, etc. Let's take a look below to see how I integrated Google sign in with my Video Game Review app.
 
 First I started with the gemfile and added the following gems: 
 ```
